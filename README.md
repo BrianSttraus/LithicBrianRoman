@@ -17,4 +17,6 @@ Technical Support Lead Application Puzzle
   ```
 * **The final decrypted answer:** The answer to Life, the Universe, and Everything = 42
 * **Tools used:** Browser Developer Tools, Perplexity AI, Base64 Decoder, Windows Command Prompt (CMD).
+
+**P.S.** I definitely don't have a snake in my boot.
   
